@@ -156,9 +156,9 @@ cython_debug/
 .ipynb_checkpoints/
 
 # Database
-*.db
-*.rdb
-*.csv
+#*.db
+#*.rdb
+#*.csv
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
